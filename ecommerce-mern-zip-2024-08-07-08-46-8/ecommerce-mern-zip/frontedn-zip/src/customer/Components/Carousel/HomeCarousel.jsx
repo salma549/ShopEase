@@ -112,6 +112,6 @@ const HomeCarousel = () => {
   );
 };
 
-export default HomeCarousel;
+export default HomeCarousel; //
 
 
